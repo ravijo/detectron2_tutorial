@@ -1,6 +1,6 @@
 # detectron2_tutorial
 
-Detectron2 from Facebook is an AI library with state-of-the-art detection and segmentation algorithms. While training AI algorithms, it is essential to keep an eye on training statistics. Unfortunately, some statistics, such as validation loss, is not currently provided but is possible by hacking the codebase (check references, please). Therefore, this tutorial is created to demonstrate the computation of training and validation loss using Detectron2.
+Detectron2 from Facebook is an AI library with state-of-the-art detection and segmentation algorithms. While training AI algorithms, it is essential to keep an eye on training statistics. Unfortunately, some statistics, such as validation loss, is not currently provided but is possible by hacking the codebase (check [references](#References), please). Therefore, this tutorial is created to demonstrate the computation of training and validation loss using Detectron2.
 
 
 ## Dependencies
